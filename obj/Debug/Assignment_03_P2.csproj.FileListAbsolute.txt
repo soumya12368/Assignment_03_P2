@@ -1,0 +1,7 @@
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\bin\Debug\Assignment_03_P2.exe.config
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\bin\Debug\Assignment_03_P2.exe
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\bin\Debug\Assignment_03_P2.pdb
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\obj\Debug\Assignment_03_P2.csproj.AssemblyReference.cache
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\obj\Debug\Assignment_03_P2.csproj.CoreCompileInputs.cache
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\obj\Debug\Assignment_03_P2.exe
+C:\Users\soums\source\repos\Assignment_03_P2\Assignment_03_P2\obj\Debug\Assignment_03_P2.pdb
